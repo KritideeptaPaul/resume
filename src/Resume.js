@@ -1,3 +1,4 @@
+import React from 'react';
 export default function Resume() {
-  return My Portfolio is Live!;
+return React.createElement('h1', null, 'My Portfolio is Live!');
 }
